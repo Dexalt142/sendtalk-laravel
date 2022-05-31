@@ -2,6 +2,11 @@
 
 Unofficial TapTalk's SendTalk library for Laravel.
 
+[![PHPUnit Tests](https://github.com/Dexalt142/sendtalk-laravel/actions/workflows/test.yml/badge.svg)](https://github.com/Dexalt142/sendtalk-laravel/actions/workflows/test.yml)
+[![Latest Version](https://img.shields.io/packagist/v/dexalt142/sendtalk?label=Latest%20Version&style=flat-square)](https://packagist.org/packages/dexalt142/sendtalk)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/dexalt142/sendtalk?label=Downloads&style=flat-square)](https://packagist.org/packages/dexalt142/sendtalk)
+[![License](https://img.shields.io/github/license/dexalt142/sendtalk-laravel?label=License&style=flat-square)](https://github.com/Dexalt142/sendtalk-laravel/blob/master/LICENSE)
+
 ## 1. Installation
 
 You can install this package through Composer CLI by running this command.
