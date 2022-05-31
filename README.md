@@ -43,7 +43,7 @@ SENDTALK_API_KEY=YOUR_SENDTALK_API_KEY_HERE
 
 ## 3. How to Use
 
-There are two options to call a method, you can either use the regular class `Dexalt142\SendTalk\SendTalk` or Facade `Dexalt142\SendTalk\Facades\SendTalk`.
+To call all available methods, you must call it through the SendTalk Facade `Dexalt142\SendTalk\Facades\SendTalk`.
 
 ### 3.a. Get message status
 
